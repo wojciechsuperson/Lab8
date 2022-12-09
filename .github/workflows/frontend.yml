@@ -1,7 +1,7 @@
 name: GitHub Action flow to Docker hub 
 
 on:
- workflow_dispatch:
+#  workflow_dispatch:
   push:
     branches: [main]
 
